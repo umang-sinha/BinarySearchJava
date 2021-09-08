@@ -10,7 +10,7 @@ public class LastOccurrence{
      * performs a binary search for element x on the array and returns the index of
      * the last occurrence of x. Returns -1 if not found
      */
-    private static int findLastOccurrence(int[] arr, int x) {
+    public static int findLastOccurrence(int[] arr, int x) {
         int start = 0;
         int end = arr.length - 1;
         int res = -1;
