@@ -1,7 +1,7 @@
 public class CountOfAnElement{
     public static void main(String[] args) {
         int[] arr = { 12, 13, 13, 14, 14, 15, 17, 19, 23, 24, 24, 24 };
-        int x = 4;
+        int x = 24;
         System.out.println(countOfElement(arr, x));
     }
 
