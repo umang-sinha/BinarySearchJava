@@ -4,6 +4,8 @@ public class FloorOfElementInSortedArray {
         System.out.println(findFloorOfElementInSortedArray(arr, 0));
     }
 
+    //takes a sorted array as input and returns the floor of x. If floor doesn't exist, returns -1
+    //Here floor means the greatest element in the array which is smaller than x
     public static int findFloorOfElementInSortedArray(int[] arr, int x){
         int start = 0;
         int end = arr.length - 1;
