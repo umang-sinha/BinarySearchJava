@@ -22,6 +22,7 @@ Following are the topics covered:
 - Peak Element
 - Maximum Element in a Bitonic Array
 - Searching in a Bitonic Array
+- Searching in Row wise and Column wise sorted Matrix
 
 ## 🚀 Execution 
 
