@@ -23,6 +23,7 @@ Following are the topics covered:
 - Maximum Element in a Bitonic Array
 - Searching in a Bitonic Array
 - Searching in Row wise and Column wise sorted Matrix
+- Allocate Minimum Number Of Pages
 
 ## 🚀 Execution 
 
